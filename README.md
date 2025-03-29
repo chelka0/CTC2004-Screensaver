@@ -9,4 +9,4 @@
 
  
 <img align="center" src=https://github.com/chelka0/CTC2004-Screensaver/blob/main/scr1-1.png height="500"></h1>
-<img align="center" src=https://github.com/chelka0/CTC2004-Screensaver/blob/main/scr1-2.png height="376"></h1>
+<img align="center" src=https://github.com/chelka0/CTC2004-Screensaver/blob/main/scr1-2.png height="500"></h1>
