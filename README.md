@@ -1,5 +1,5 @@
 <img src=https://github.com/chelka0/CTC2004-Screensaver/blob/main/scr1.png/></h1>
-<h1 align="center">CTC 2004 Screensaver
+<h1 align="center">CTC 2004 Screensaver (.exe + .scr)
 
 <h3 align="center">Фанатский скринсейвер часов СТС из 2004г</h3>
 <h3 align="center">Присутствуют Зимняя и Летняя версии</h3>
